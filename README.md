@@ -219,7 +219,3 @@ The project follows best practices for production code:
 ## License
 
 This project is created for the Zania coding challenge.
-
-## Contact
-
-For questions about this implementation, please contact shruti@zania.ai
