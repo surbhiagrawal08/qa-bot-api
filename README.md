@@ -81,7 +81,7 @@ A production-ready Question-Answering bot API built with FastAPI and LangChain t
 3. **Run the server**:
    ```
    ./run.sh
-```
+
 5. **In another terminal**:
 ```bash
 curl -X POST "http://localhost:8000/qa" \
