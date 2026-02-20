@@ -82,8 +82,8 @@ A production-ready Question-Answering bot API built with FastAPI and LangChain t
    ```
    ./run.sh
 ```
-4. **In another terminal**:
-```
+5. **In another terminal**:
+```bash
 curl -X POST "http://localhost:8000/qa" \
   -F "questions_file=@sample_questions.json" \
   -F "document_file=@soc2-type2.pdf" \
