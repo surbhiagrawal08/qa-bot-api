@@ -182,17 +182,7 @@ Zania/
 ├── requirements.txt
 └── README.md
 ```
-
-## Running Tests
-
-```bash
-pytest tests/
-```
-
-For verbose output:
-```bash
-pytest tests/ -v
-```
+### Results are in results.json file
 
 ## Development
 
