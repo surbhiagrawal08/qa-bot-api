@@ -66,8 +66,7 @@ A production-ready Question-Answering bot API built with FastAPI and LangChain t
    Create a `.env` file in the root directory:
    ```bash
    chmod +x ./setup_env.sh
-   ./setup_env.sh #In this edit your_key in the key placeholder
-   OPENAI_API_KEY=your_openai_api_key_here
+   ./setup_env.sh #In this edit your_key in the key placeholder (OPENAI_API_KEY=your_openai_api_key_here)
    ```
 
    ** Resist the urge to do pip upgrade - when I did it, it messed up with the requirements since each package is compatible with certain version 
