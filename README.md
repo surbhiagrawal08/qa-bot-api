@@ -55,7 +55,7 @@ A production-ready Question-Answering bot API built with FastAPI and LangChain t
       - Installation order issues
       - Compatibility problems
 
-      ## Solutions
+      ## Solution - I do recommend running below command after requirements installation
 
       ### Solution 1: Use Fixed Installation Script (Recommended)
       ```bash
