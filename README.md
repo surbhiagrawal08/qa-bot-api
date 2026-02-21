@@ -46,7 +46,7 @@ A production-ready Question-Answering bot API built with FastAPI and LangChain t
    pip install -r requirements.txt
    ```
 
-   if # Fix for pip install Issues (or all requirements.txt arent fully downloaded)
+   (MOSTLY WILL COME UP)if # Fix for pip install Issues (or all requirements.txt arent fully downloaded or incmptible)
 
       ## Problem
       `pip install -r requirements.txt` doesn't install all packages due to:
@@ -61,10 +61,6 @@ A production-ready Question-Answering bot API built with FastAPI and LangChain t
       ```bash
       ./install_fixed.sh
 
-      Try installing again:
-      ```bash
-      pip install --upgrade pip setuptools wheel
-      pip install -r requirements.txt
 
 4. **Set up environment variables**:
    Create a `.env` file in the root directory:
