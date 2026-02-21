@@ -74,7 +74,7 @@ A production-ready Question-Answering bot API built with FastAPI and LangChain t
    OPENAI_API_KEY=your_openai_api_key_here
    ```
 
-   **⚠️ Important**: Never commit `.env` file or API keys to Git!
+   ** Resist the urge to do pip upgrade - when I did it, it messed up with the requirements since each package is compatible with certain version 
 
 ## Usage
 
