@@ -69,6 +69,7 @@ A production-ready Question-Answering bot API built with FastAPI and LangChain t
 4. **Set up environment variables**:
    Create a `.env` file in the root directory:
    ```bash
+   chmod +x ./setup_env.sh
    ./setup_env.sh #In this edit your_key in the key placeholder
    OPENAI_API_KEY=your_openai_api_key_here
    ```
