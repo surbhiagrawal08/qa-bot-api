@@ -32,6 +32,7 @@ A production-ready Question-Answering bot API built with FastAPI and LangChain t
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
+   cd qa-bot-api/
    ```
 
 2. **Create a virtual environment**:
